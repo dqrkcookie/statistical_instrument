@@ -1,5 +1,5 @@
 # INSTALL PyQt5, matplotlib, numpy & scipy
-
+# GERALYN LAPUT
 import sys
 from PyQt5.QtWidgets import (
     QApplication, QMainWindow, QLabel, QLineEdit,
